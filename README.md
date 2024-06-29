@@ -9,7 +9,6 @@ This is a simple web application built with Flask that allows users to register,
 ## Table of Contents
 
 - [Features](#features)
-- [Project Structure](#project-structure)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Routes](#routes)
@@ -26,24 +25,6 @@ This is a simple web application built with Flask that allows users to register,
 - User authentication and session management.
 - Responsive frontend using HTML, CSS, and JavaScript.
 
-## Project Structure
-
-```plaintext
-flask_note_app/
-├── __init__.py
-├── auth.py
-├── models.py
-├── views.py
-├── templates/
-│   ├── base.html
-│   ├── home.html
-│   ├── login.html
-│   ├── sign_up.html
-├── static/
-│   └── index.js
-└── instance/
-    └── config.py
-```
 
 ## Routes
 
