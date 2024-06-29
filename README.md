@@ -16,8 +16,7 @@ This is a simple web application built with Flask that allows users to register,
 - [Frontend](#frontend)
 - [Backend](#backend)
 - [Database](#database)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Features
 
